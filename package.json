@@ -1,6 +1,7 @@
 {
   "name": "honeymoon",
   "type": "module",
+  "packageManager": "pnpm@9.0.0",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
