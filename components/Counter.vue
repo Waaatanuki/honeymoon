@@ -33,5 +33,6 @@ const counter = ref(props.count)
     >
       +
     </button>
+    <img absolute right-0 inset-y-0 w-100 h-200px src="/img/Lobi-Gili-Island-Map.jpg">
   </div>
 </template>

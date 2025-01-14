@@ -32,26 +32,15 @@ OBLU SELECT Lobigili
 transition: fade-out
 ---
 
-# What is Slidev?
+# OBLU SELECT Lobigili
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+- [酒店官网](https://www.coloursofoblu.com/oblu-select-lobigili)
+- 入岛交通: 乘约15分钟快艇
+- 入住时间: 当天14:00之后
+- 退房时间: 当天12:00之前
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - themes can be shared and re-used as npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embed Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
--->
+<img absolute right-0 w-200px src="/img/Lobi-Gili-Island-Map.jpg">
+<!-- ![island map](/img/Lobi-Gili-Island-Map.jpg) -->
 
 <style>
 h1 {
